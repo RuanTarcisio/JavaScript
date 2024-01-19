@@ -1,4 +1,4 @@
-/*// Mostre no console cada parágrado do site
+// Mostre no console cada parágrado do site
 const paragrafos = document.querySelectorAll('p');
 console.log(paragrafos);
 
@@ -25,7 +25,7 @@ imgs.forEach(() => {
 
 imgs.forEach(() => i++);
 
-console.log(i);*/
+console.log(i);
 
 const titulos = document.getElementsByClassName('titulo');
 const titulosArray = Array.from(titulos);
